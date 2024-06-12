@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/surajkumarrr13" target="blank"><img src="https://img.shields.io/twitter/follow/surajkumarrr13?logo=twitter&style=for-the-badge" alt="surajkumarrr13" /></a> </p>
 
-- 🌱 I’m currently learning **React Js , Web3 ,Data structures and Algorithms**
+- 🌱 I’m skilled with **DataScience , MLOPS , React Js , Web3 ,Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://surajkumarsahu.netlify.app/](https://surajkumarsahu.netlify.app/)
 
-- 💬 Ask me about **React , Web3**
+- 💬 Ask me about **DataScience , MLOPS , React , Web3**
 
 - 📫 How to reach me **surajsahu13sk@gmail.com**
 
