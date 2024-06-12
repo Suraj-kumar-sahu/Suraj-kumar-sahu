@@ -1,4 +1,3 @@
-<img align="center" width="100%" height="200" alt="coding" src="https://thumbs.dreamstime.com/b/blockchain-technology-cryptocurrency-marketplace-bitcoin-mining-farm-smart-city-digital-cloud-network-crypto-currency-206391669.jpg">
 <h1 align="center">Hi 👋, I'm Suraj Kumar Sahu</h1>
 <h3 align="center">A passionate FullStack Blockchain developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fd8d6103b348f3031a5d0dcc4bc7204c918328e2&rid=giphy.gif&ct=g">
