@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Sahu</h1>
-<h3 align="center">A passionate FullStack Blockchain developer from India and DataScientist</h3>
+<h3 align="center">A passionate FullStack Blockchain developer and DataScientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611fd8d6103b348f3031a5d0dcc4bc7204c918328e2&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-kumar-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-kumar-sahu" /> </p>
