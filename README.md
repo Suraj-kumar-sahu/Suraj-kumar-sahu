@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **surajsahu13sk@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1075CLzngrx3FA3XKsn1yY1hJNzRGoQiA/view?usp=share_link](https://drive.google.com/file/d/1075CLzngrx3FA3XKsn1yY1hJNzRGoQiA/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1075CLzngrx3FA3XKsn1yY1hJNzRGoQiA/view?usp=share_link](https://drive.google.com/file/d/1tDneb_RWpbhuQcsr8Ja6RxUDpVgQtCVV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
