@@ -4,7 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj-kumar-sahu&label=Profile%20views&color=0e75b6&style=flat" alt="suraj-kumar-sahu" /> </p>
 
-<p align="left"> <a href="[https://twitter.com/surajkumarrr13](https://x.com/_surajkumarrr_)" target="blank"><img src="https://img.shields.io/twitter/follow/surajkumarrr13?logo=twitter&style=for-the-badge" alt="surajkumarrr13" /></a> </p>
+<p align="left">
+  <a href="https://x.com/_surajkumarrr_" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/_surajkumarrr_?logo=twitter&style=for-the-badge" alt="Follow Suraj Kumar on X">
+  </a>
+</p>
 
 - 🌱 I’m skilled with **DataScience , MLOPS , React Js , Web3 ,Data structures and Algorithms**
 
